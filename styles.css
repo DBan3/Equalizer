@@ -181,6 +181,8 @@ body {
     justify-content: center;
     font-size: 1.2rem;
     font-weight: bold;
+    max-width: 327px;
+    max-height: 54px;
 }
 
 .subscription_form button img {
