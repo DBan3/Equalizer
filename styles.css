@@ -157,6 +157,7 @@ body {
     height: 8vh;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
+    line-height: 11px;
 }
 
 .subscription_form button {
